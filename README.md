@@ -59,3 +59,4 @@ This plugin introduces a currency list column called `currency`. The value is fo
         total_amount:
             label: Loan amount
             type: currency
+            format: short
